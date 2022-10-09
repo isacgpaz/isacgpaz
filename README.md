@@ -11,9 +11,9 @@
 #### Contact 📬
 
 <div>
+  <img src="https://img.shields.io/badge/Email-0F9D58?style=for-the-badge&logo=gmail&logoColor=white"/>
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Email-0F9D58?style=for-the-badge&logo=gmail&logoColor=white"/>
 </div>
 
 ------------------
