@@ -43,9 +43,3 @@
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
   <img src="https://img.shields.io/badge/React_Hook_Form-833AB4?style=for-the-badge&logo=react-hook-form&logoColor=white"/>
 </div>
-
-#### My next steps 📱
-
-<div>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-</div>
